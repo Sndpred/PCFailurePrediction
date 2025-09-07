@@ -1,0 +1,18 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore local environment folders
+.venv/
+env/
+venv/
+
+# Ignore saved models and large data files
+model.pkl
+scaler.pkl
+datapc.csv
+
